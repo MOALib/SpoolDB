@@ -1,0 +1,9 @@
+__pycache__/
+doc/
+spooldb/__pycache__/
+*.*db
+*.shelf
+*.*tmp*
+build/
+dist/
+SpoolDB.egg-info
